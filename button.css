@@ -4,7 +4,7 @@
  padding-top: 50px;
 }
 
-#buttonStyler.btn {
+#demo-button.btn {
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(156,35,174,1);
 	font-size: 28px;
@@ -14,12 +14,8 @@
 	background: rgba(255,178,77,1);
 }
 
-#buttonStyler.btn:hover {
+#demo-button.btn:hover {
 	color: rgba(255,178,77,1);
 	background: rgba(156,35,174,1);
 	border: 3px solid rgba(255,178,77,1);
 }
-
-
-                                    
-                                    
